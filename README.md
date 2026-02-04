@@ -84,7 +84,6 @@ High in any one = stress. High in all four = meltdown.
 
 ## 🔗 Original Gist
 
-HTP Anticipation Stress Framework — [Gist Version](https://gist.github.com/ChaosGod208/fa6c47a7850fe65a59de9817b60f2132)  
 Full gist archive (100+ frameworks): [ChaosGod208 gist](https://gist.github.com/ChaosGod208)
 
 ---
